@@ -16,4 +16,4 @@ In order to get Flamenco up and running for development, we need to follow these
   mapping from role to `flamenco-use` and `flamenco-view` capabilities
 - Run `./gulp`
 
-The core of Flamenco is built using Go and SQLite. Check out the source code on [projects.blender.org](https://projects.blender.org/studio/flamenco)
+The core of Flamenco is built using Go and SQLite. Check out the new version of the source code on [projects.blender.org](https://projects.blender.org/studio/flamenco)

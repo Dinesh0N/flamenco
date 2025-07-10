@@ -1,7 +1,7 @@
 # Flamenco Server
 
 This is the Flamenco Server component, implemented as a Pillar extension.
-Documentation can be found at https://flamenco.io/docs/.
+Documentation can be found at [flamenco](https://flamenco.blender.org/usage/quickstart/).
 
 ## Development Setup
 
